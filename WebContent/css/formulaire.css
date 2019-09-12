@@ -1,0 +1,33 @@
+.contenuFormulaire{
+ 
+  width: 100%;
+  padding: 10px;
+  
+}
+.button {
+  background-color: #3A1F35;
+  border: none;
+  float: right;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  width: 150px;
+  height: 50px;
+}
+
+.fx > * {
+    margin-left:10px !important;
+    width: 150px !important;
+}
+.ph{
+	width: 200px;
+}
+
+.form-inline > * {
+    margin-left:10px !important;
+}
